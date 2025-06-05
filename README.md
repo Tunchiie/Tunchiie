@@ -23,7 +23,7 @@
 
 ### 🚀 Highlight Projects  
 
-- 🔍 **[Customer Purchase Predictor](#)**  
+- 🔍 **[Customer Purchase Predictor](#)**  <a href=> 
   Logistic regression model to predict purchasing behavior. Feature engineering (e.g., `time_between_events`, `clumpiness`), precision-recall tuning, and Streamlit dashboard.  
   _**Precision:** 55%, **Recall:** 60%._
 
