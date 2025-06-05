@@ -1,8 +1,6 @@
 <h2 align="center">Hey there, I'm Tunji👋</h2>
 
 🎯 **Aspiring Data Scientist** | Python • SQL • Tableau • NLP • Machine Learning  
-📍 Based in Parkville, MD | 💡 Behavioral Insight Enthusiast
-
 ---
 
 ### 🧠 About Me  
