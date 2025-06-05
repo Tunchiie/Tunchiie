@@ -34,8 +34,8 @@
   Tableau dashboard analyzing sewage discharge trends across England.  
   Covers seasonality, infrastructure stress, and post-2023 changes using layered visualizations.
 
-- 📚🎵 **[Bungaku Project](#)**  
-  Combines Last.fm and Google Books API data to explore the cultural relationship between music and literature.  
+- 📚🎵 **[Bungaku Project](#)**  (Work in progresss)
+  Combines Last.fm, Spotify, Billboard charts, New York Bestsellers and Google Books API data to explore the cultural relationship between music and literature.  
   Uses SBERT and fuzzy matching to connect listening and reading patterns.
 
 - 💰 **[CandleThrob](#)**  
