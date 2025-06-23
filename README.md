@@ -21,7 +21,7 @@
 
 ### 🚀 Highlight Projects  
 
-- 🔍 **[Customer Purchase Predictor](#)**  <a href=> 
+- 🔍 **[Customer Purchase Predictor](#)**
   Logistic regression model to predict purchasing behavior. Feature engineering (e.g., `time_between_events`, `clumpiness`), precision-recall tuning, and Streamlit dashboard.  
   _**Precision:** 55%, **Recall:** 60%._
 
@@ -30,7 +30,7 @@
   Custom implementations of sigmoid, cost function, gradient descent, and precision/recall metrics.  
   _**Focus:** Mathematical understanding and metric breakdown._
 
-- 📚🎵 **[Bungaku Project](#)**  (Work in progresss)
+- 📚🎵 **[Bungaku Project](https://github.com/Tunchiie/Bungaku)**  (Work in progresss)
   Aims to Combine Last.fm, Spotify, Billboard charts, New York Bestsellers and Google Books API data to explore the cultural relationship between music and literature.  
   Uses SBERT and fuzzy matching to connect listening and reading patterns.
 
