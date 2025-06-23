@@ -25,7 +25,7 @@
   Logistic regression model to predict purchasing behavior. Feature engineering (e.g., `time_between_events`, `clumpiness`), precision-recall tuning, and Streamlit dashboard.  
   _**Precision:** 55%, **Recall:** 60%._
 
-- 🧪 **[Breast Cancer Predictor (from Scratch)](#)**  
+- 🧪 **[Breast Cancer Predictor (from Scratch)](https://github.com/Tunchiie/Breast-Cancer-Predictor)**  
   Logistic regression classifier for tumor diagnosis using no libraries for model or metric computation.  
   Custom implementations of sigmoid, cost function, gradient descent, and precision/recall metrics.  
   _**Focus:** Mathematical understanding and metric breakdown._
