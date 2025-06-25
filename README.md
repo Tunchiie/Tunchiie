@@ -21,7 +21,7 @@
 
 ### 🚀 Highlight Projects  
 
-- 🔍 **[Customer Purchase Predictor](#)**
+- 🔍 **[Customer Purchase Predictor](https://github.com/Tunchiie/Customer-Purchase-Predictor)**
   Logistic regression model to predict purchasing behavior. Feature engineering (e.g., `time_between_events`, `clumpiness`), precision-recall tuning, and Streamlit dashboard.  
   _**Precision:** 55%, **Recall:** 60%._
 
